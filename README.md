@@ -1,2 +1,3 @@
-Run sh smoke_test.sh to test if program is working
+Geolocation using RAN KPIs. 
 
+The algorithm uses lSTM based prediction using tensorflow. 
