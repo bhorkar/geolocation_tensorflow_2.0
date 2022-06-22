@@ -50,7 +50,7 @@ mkl-random==1.0.2
 mkl-service==2.0.2
 mock==3.0.5
 monotonic==1.5
-numpy==1.16.5
+numpy==1.22.0
 oauth2client==3.0.0
 pandas==0.24.2
 pathlib2==2.3.4
