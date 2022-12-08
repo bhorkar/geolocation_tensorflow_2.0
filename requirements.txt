@@ -5,7 +5,7 @@ avro==1.9.0
 backports.shutil-get-terminal-size==1.0.0
 backports.weakref==1.0.post1
 cachetools==3.1.1
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 crcmod==1.7
 decorator==4.4.0
